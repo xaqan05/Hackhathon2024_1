@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Managment\\hackathon24\\Hachathon24\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07924123-8493-4F3E-9A7A-151C84AE5413}|Hachathon24\\Hachathon24.csproj|c:\\users\\user\\desktop\\managment\\hackathon24\\hachathon24\\hachathon24\\hachathon24.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{07924123-8493-4F3E-9A7A-151C84AE5413}|Hachathon24\\Hachathon24.csproj|solutionrelative:hachathon24\\hachathon24.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07924123-8493-4F3E-9A7A-151C84AE5413}|Hachathon24\\Hachathon24.csproj|c:\\users\\user\\desktop\\managment\\hackathon24\\hachathon24\\hachathon24\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{07924123-8493-4F3E-9A7A-151C84AE5413}|Hachathon24\\Hachathon24.csproj|solutionrelative:hachathon24\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07924123-8493-4F3E-9A7A-151C84AE5413}|Hachathon24\\Hachathon24.csproj|c:\\users\\user\\desktop\\managment\\hackathon24\\hachathon24\\hachathon24\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07924123-8493-4F3E-9A7A-151C84AE5413}|Hachathon24\\Hachathon24.csproj|solutionrelative:hachathon24\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07924123-8493-4F3E-9A7A-151C84AE5413}|Hachathon24\\Hachathon24.csproj|c:\\users\\user\\desktop\\managment\\hackathon24\\hachathon24\\hachathon24\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{07924123-8493-4F3E-9A7A-151C84AE5413}|Hachathon24\\Hachathon24.csproj|solutionrelative:hachathon24\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Managment\\hackathon24\\Hachathon24\\Hachathon24\\appsettings.json",
+              "RelativeDocumentMoniker": "Hachathon24\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Managment\\hackathon24\\Hachathon24\\Hachathon24\\appsettings.json",
+              "RelativeToolTip": "Hachathon24\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-06T06:42:11.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Managment\\hackathon24\\Hachathon24\\Hachathon24\\Program.cs",
+              "RelativeDocumentMoniker": "Hachathon24\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Managment\\hackathon24\\Hachathon24\\Hachathon24\\Program.cs",
+              "RelativeToolTip": "Hachathon24\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T06:41:58.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Managment\\hackathon24\\Hachathon24\\Hachathon24\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "Hachathon24\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Managment\\hackathon24\\Hachathon24\\Hachathon24\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "Hachathon24\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-06T06:41:54.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Hachathon24",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Managment\\hackathon24\\Hachathon24\\Hachathon24\\Hachathon24.csproj",
+              "RelativeDocumentMoniker": "Hachathon24\\Hachathon24.csproj",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Managment\\hackathon24\\Hachathon24\\Hachathon24\\Hachathon24.csproj*",
+              "RelativeToolTip": "Hachathon24\\Hachathon24.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-06T06:37:37.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
